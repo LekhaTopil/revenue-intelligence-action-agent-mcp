@@ -1,0 +1,8 @@
+google-adk
+google-cloud-bigquery
+google-auth
+google-auth-httplib2
+google-api-python-client
+python-dotenv
+deprecated
+requests 
